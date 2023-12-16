@@ -2,6 +2,6 @@ Hello World!
 
 This is my first time using Git.
 
-^-^
+^-^ :) This smiley is funnier!
 
 Added new line
